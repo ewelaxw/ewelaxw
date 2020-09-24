@@ -2,6 +2,14 @@
 
 <h2 align="center" >Hi there 👋</h2>
 
+## 🔭 I’m currently working on ...
+
+- **Personal-books-library** - An application for storing a list of books that I have read and want to read.
+  </br>
+  In this project, I am collaborating with [Krzyś](http:/github.com/Fanki11er):):heart:
+  </br>
+  **Repository:** https://github.com/ewelaxw/Personal-books-library
+
 <!--
 **ewelaxw/ewelaxw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
