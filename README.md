@@ -1,6 +1,6 @@
 <div align="center" ><img src="https://github.com/ewelaxw/ewelaxw/raw/master/images/Logo.svg" width="120px"></div>
 
-<h2 align="center" >Hi there 👋</h2>
+<h2 align="center" >Hello 👋</h2>
 
 ## 🔭 I’m currently working on ...
 
