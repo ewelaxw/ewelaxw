@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center" ><img src="https://github.com/ewelaxw/ewelaxw/raw/master/images/Logo.svg" width="120px"></div>
+
+<h2 align="center" >Hi there 👋</h2>
 
 <!--
 **ewelaxw/ewelaxw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
